@@ -46,11 +46,6 @@ class AmbulanceCar extends Car{
 }
 
 
-  // const city = new City('nairiHospital', 'erebuniHospital', 'centralPoliceDepartment')
-  // const build= new Building('Educational Buildings')
-  // city.buildings 
-  // console.log( build)
-
   const city = new City()
   
   const nairiHospital = new Hospital();
