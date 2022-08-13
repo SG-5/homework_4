@@ -12,3 +12,6 @@ ClassHierarchy()
 
 import { OOP_Structure } from './exercise_5.js'
 OOP_Structure()
+
+import {TVClass } from './exercise_6.js'
+TVClass()
