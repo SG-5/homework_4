@@ -15,3 +15,6 @@ OOP_Structure()
 
 import {TVClass } from './exercise_6.js'
 TVClass()
+
+import {Shop} from './exercise_7.js'
+Shop()
